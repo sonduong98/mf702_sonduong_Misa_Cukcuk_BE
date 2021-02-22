@@ -1,0 +1,28 @@
+E:\Misa Fresher\Misa-Duong-MF702\MISA-DUONG-MF702\MISA.Service\obj\Debug\netcoreapp3.1\MISA.Service.csprojAssemblyReference.cache
+E:\Misa Fresher\Misa-Duong-MF702\MISA-DUONG-MF702\MISA.Service\obj\Debug\netcoreapp3.1\MISA.Service.AssemblyInfoInputs.cache
+E:\Misa Fresher\Misa-Duong-MF702\MISA-DUONG-MF702\MISA.Service\obj\Debug\netcoreapp3.1\MISA.Service.AssemblyInfo.cs
+E:\Misa Fresher\Misa-Duong-MF702\MISA-DUONG-MF702\MISA.Service\obj\Debug\netcoreapp3.1\MISA.Service.csproj.CoreCompileInputs.cache
+E:\Misa Fresher\Misa-Duong-MF702\MISA-DUONG-MF702\MISA.Service\bin\Debug\netcoreapp3.1\MISA.Service.deps.json
+E:\Misa Fresher\Misa-Duong-MF702\MISA-DUONG-MF702\MISA.Service\bin\Debug\netcoreapp3.1\MISA.Service.dll
+E:\Misa Fresher\Misa-Duong-MF702\MISA-DUONG-MF702\MISA.Service\bin\Debug\netcoreapp3.1\MISA.Service.pdb
+E:\Misa Fresher\Misa-Duong-MF702\MISA-DUONG-MF702\MISA.Service\bin\Debug\netcoreapp3.1\MISA.Common.dll
+E:\Misa Fresher\Misa-Duong-MF702\MISA-DUONG-MF702\MISA.Service\bin\Debug\netcoreapp3.1\MISA.DataLayer.dll
+E:\Misa Fresher\Misa-Duong-MF702\MISA-DUONG-MF702\MISA.Service\bin\Debug\netcoreapp3.1\MISA.Common.pdb
+E:\Misa Fresher\Misa-Duong-MF702\MISA-DUONG-MF702\MISA.Service\bin\Debug\netcoreapp3.1\MISA.DataLayer.pdb
+E:\Misa Fresher\Misa-Duong-MF702\MISA-DUONG-MF702\MISA.Service\obj\Debug\netcoreapp3.1\MISA.Service.csproj.CopyComplete
+E:\Misa Fresher\Misa-Duong-MF702\MISA-DUONG-MF702\MISA.Service\obj\Debug\netcoreapp3.1\MISA.Service.dll
+E:\Misa Fresher\Misa-Duong-MF702\MISA-DUONG-MF702\MISA.Service\obj\Debug\netcoreapp3.1\MISA.Service.pdb
+E:\MF702-Nguyễn Sơn Dương\MISA.Web2021_02\MISA-DUONG-MF702\MISA.Service\bin\Debug\netcoreapp3.1\MISA.Service.deps.json
+E:\MF702-Nguyễn Sơn Dương\MISA.Web2021_02\MISA-DUONG-MF702\MISA.Service\bin\Debug\netcoreapp3.1\MISA.Service.dll
+E:\MF702-Nguyễn Sơn Dương\MISA.Web2021_02\MISA-DUONG-MF702\MISA.Service\bin\Debug\netcoreapp3.1\MISA.Service.pdb
+E:\MF702-Nguyễn Sơn Dương\MISA.Web2021_02\MISA-DUONG-MF702\MISA.Service\bin\Debug\netcoreapp3.1\MISA.Common.dll
+E:\MF702-Nguyễn Sơn Dương\MISA.Web2021_02\MISA-DUONG-MF702\MISA.Service\bin\Debug\netcoreapp3.1\MISA.DataLayer.dll
+E:\MF702-Nguyễn Sơn Dương\MISA.Web2021_02\MISA-DUONG-MF702\MISA.Service\bin\Debug\netcoreapp3.1\MISA.Common.pdb
+E:\MF702-Nguyễn Sơn Dương\MISA.Web2021_02\MISA-DUONG-MF702\MISA.Service\bin\Debug\netcoreapp3.1\MISA.DataLayer.pdb
+E:\MF702-Nguyễn Sơn Dương\MISA.Web2021_02\MISA-DUONG-MF702\MISA.Service\obj\Debug\netcoreapp3.1\MISA.Service.csprojAssemblyReference.cache
+E:\MF702-Nguyễn Sơn Dương\MISA.Web2021_02\MISA-DUONG-MF702\MISA.Service\obj\Debug\netcoreapp3.1\MISA.Service.AssemblyInfoInputs.cache
+E:\MF702-Nguyễn Sơn Dương\MISA.Web2021_02\MISA-DUONG-MF702\MISA.Service\obj\Debug\netcoreapp3.1\MISA.Service.AssemblyInfo.cs
+E:\MF702-Nguyễn Sơn Dương\MISA.Web2021_02\MISA-DUONG-MF702\MISA.Service\obj\Debug\netcoreapp3.1\MISA.Service.csproj.CoreCompileInputs.cache
+E:\MF702-Nguyễn Sơn Dương\MISA.Web2021_02\MISA-DUONG-MF702\MISA.Service\obj\Debug\netcoreapp3.1\MISA.Service.csproj.CopyComplete
+E:\MF702-Nguyễn Sơn Dương\MISA.Web2021_02\MISA-DUONG-MF702\MISA.Service\obj\Debug\netcoreapp3.1\MISA.Service.dll
+E:\MF702-Nguyễn Sơn Dương\MISA.Web2021_02\MISA-DUONG-MF702\MISA.Service\obj\Debug\netcoreapp3.1\MISA.Service.pdb

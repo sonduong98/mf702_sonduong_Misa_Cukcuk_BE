@@ -1,0 +1,124 @@
+E:\Misa Fresher\Misa-Duong-MF702\MISA-DUONG-MF702\MISA-DUONG-MF702\bin\Debug\net5.0\appsettings.Development.json
+E:\Misa Fresher\Misa-Duong-MF702\MISA-DUONG-MF702\MISA-DUONG-MF702\bin\Debug\net5.0\appsettings.json
+E:\Misa Fresher\Misa-Duong-MF702\MISA-DUONG-MF702\MISA-DUONG-MF702\bin\Debug\net5.0\MISA-DUONG-MF702.exe
+E:\Misa Fresher\Misa-Duong-MF702\MISA-DUONG-MF702\MISA-DUONG-MF702\bin\Debug\net5.0\MISA-DUONG-MF702.deps.json
+E:\Misa Fresher\Misa-Duong-MF702\MISA-DUONG-MF702\MISA-DUONG-MF702\bin\Debug\net5.0\MISA-DUONG-MF702.runtimeconfig.json
+E:\Misa Fresher\Misa-Duong-MF702\MISA-DUONG-MF702\MISA-DUONG-MF702\bin\Debug\net5.0\MISA-DUONG-MF702.runtimeconfig.dev.json
+E:\Misa Fresher\Misa-Duong-MF702\MISA-DUONG-MF702\MISA-DUONG-MF702\bin\Debug\net5.0\MISA-DUONG-MF702.dll
+E:\Misa Fresher\Misa-Duong-MF702\MISA-DUONG-MF702\MISA-DUONG-MF702\bin\Debug\net5.0\ref\MISA-DUONG-MF702.dll
+E:\Misa Fresher\Misa-Duong-MF702\MISA-DUONG-MF702\MISA-DUONG-MF702\bin\Debug\net5.0\MISA-DUONG-MF702.pdb
+E:\Misa Fresher\Misa-Duong-MF702\MISA-DUONG-MF702\MISA-DUONG-MF702\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\Misa Fresher\Misa-Duong-MF702\MISA-DUONG-MF702\MISA-DUONG-MF702\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Misa Fresher\Misa-Duong-MF702\MISA-DUONG-MF702\MISA-DUONG-MF702\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Misa Fresher\Misa-Duong-MF702\MISA-DUONG-MF702\MISA-DUONG-MF702\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Misa Fresher\Misa-Duong-MF702\MISA-DUONG-MF702\MISA-DUONG-MF702\obj\Debug\net5.0\MISA-DUONG-MF702.csprojAssemblyReference.cache
+E:\Misa Fresher\Misa-Duong-MF702\MISA-DUONG-MF702\MISA-DUONG-MF702\obj\Debug\net5.0\MISA-DUONG-MF702.GeneratedMSBuildEditorConfig.editorconfig
+E:\Misa Fresher\Misa-Duong-MF702\MISA-DUONG-MF702\MISA-DUONG-MF702\obj\Debug\net5.0\MISA-DUONG-MF702.AssemblyInfoInputs.cache
+E:\Misa Fresher\Misa-Duong-MF702\MISA-DUONG-MF702\MISA-DUONG-MF702\obj\Debug\net5.0\MISA-DUONG-MF702.AssemblyInfo.cs
+E:\Misa Fresher\Misa-Duong-MF702\MISA-DUONG-MF702\MISA-DUONG-MF702\obj\Debug\net5.0\MISA-DUONG-MF702.csproj.CoreCompileInputs.cache
+E:\Misa Fresher\Misa-Duong-MF702\MISA-DUONG-MF702\MISA-DUONG-MF702\obj\Debug\net5.0\MISA-DUONG-MF702.MvcApplicationPartsAssemblyInfo.cs
+E:\Misa Fresher\Misa-Duong-MF702\MISA-DUONG-MF702\MISA-DUONG-MF702\obj\Debug\net5.0\MISA-DUONG-MF702.MvcApplicationPartsAssemblyInfo.cache
+E:\Misa Fresher\Misa-Duong-MF702\MISA-DUONG-MF702\MISA-DUONG-MF702\obj\Debug\net5.0\staticwebassets\MISA-DUONG-MF702.StaticWebAssets.Manifest.cache
+E:\Misa Fresher\Misa-Duong-MF702\MISA-DUONG-MF702\MISA-DUONG-MF702\obj\Debug\net5.0\staticwebassets\MISA-DUONG-MF702.StaticWebAssets.xml
+E:\Misa Fresher\Misa-Duong-MF702\MISA-DUONG-MF702\MISA-DUONG-MF702\obj\Debug\net5.0\scopedcss\bundle\MISA-DUONG-MF702.styles.css
+E:\Misa Fresher\Misa-Duong-MF702\MISA-DUONG-MF702\MISA-DUONG-MF702\obj\Debug\net5.0\MISA-DUONG-MF702.RazorTargetAssemblyInfo.cache
+E:\Misa Fresher\Misa-Duong-MF702\MISA-DUONG-MF702\MISA-DUONG-MF702\obj\Debug\net5.0\MISA-DUONG-MF702.csproj.CopyComplete
+E:\Misa Fresher\Misa-Duong-MF702\MISA-DUONG-MF702\MISA-DUONG-MF702\obj\Debug\net5.0\MISA-DUONG-MF702.dll
+E:\Misa Fresher\Misa-Duong-MF702\MISA-DUONG-MF702\MISA-DUONG-MF702\obj\Debug\net5.0\ref\MISA-DUONG-MF702.dll
+E:\Misa Fresher\Misa-Duong-MF702\MISA-DUONG-MF702\MISA-DUONG-MF702\obj\Debug\net5.0\MISA-DUONG-MF702.pdb
+E:\Misa Fresher\Misa-Duong-MF702\MISA-DUONG-MF702\MISA-DUONG-MF702\obj\Debug\net5.0\MISA-DUONG-MF702.genruntimeconfig.cache
+E:\Misa Fresher\Misa-Duong-MF702\MISA-DUONG-MF702\MISA-DUONG-MF702\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+E:\Misa Fresher\Misa-Duong-MF702\MISA-DUONG-MF702\MISA-DUONG-MF702\bin\Debug\net5.0\Dapper.dll
+E:\Misa Fresher\Misa-Duong-MF702\MISA-DUONG-MF702\MISA-DUONG-MF702\bin\Debug\net5.0\Google.Protobuf.dll
+E:\Misa Fresher\Misa-Duong-MF702\MISA-DUONG-MF702\MISA-DUONG-MF702\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+E:\Misa Fresher\Misa-Duong-MF702\MISA-DUONG-MF702\MISA-DUONG-MF702\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+E:\Misa Fresher\Misa-Duong-MF702\MISA-DUONG-MF702\MISA-DUONG-MF702\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+E:\Misa Fresher\Misa-Duong-MF702\MISA-DUONG-MF702\MISA-DUONG-MF702\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+E:\Misa Fresher\Misa-Duong-MF702\MISA-DUONG-MF702\MISA-DUONG-MF702\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+E:\Misa Fresher\Misa-Duong-MF702\MISA-DUONG-MF702\MISA-DUONG-MF702\bin\Debug\net5.0\MySql.Data.dll
+E:\Misa Fresher\Misa-Duong-MF702\MISA-DUONG-MF702\MISA-DUONG-MF702\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+E:\Misa Fresher\Misa-Duong-MF702\MISA-DUONG-MF702\MISA-DUONG-MF702\bin\Debug\net5.0\Zstandard.Net.dll
+E:\Misa Fresher\Misa-Duong-MF702\MISA-DUONG-MF702\MISA-DUONG-MF702\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\Misa Fresher\Misa-Duong-MF702\MISA-DUONG-MF702\MISA-DUONG-MF702\bin\Debug\net5.0\Renci.SshNet.dll
+E:\Misa Fresher\Misa-Duong-MF702\MISA-DUONG-MF702\MISA-DUONG-MF702\bin\Debug\net5.0\SshNet.Security.Cryptography.dll
+E:\Misa Fresher\Misa-Duong-MF702\MISA-DUONG-MF702\MISA-DUONG-MF702\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\Misa Fresher\Misa-Duong-MF702\MISA-DUONG-MF702\MISA-DUONG-MF702\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\Misa Fresher\Misa-Duong-MF702\MISA-DUONG-MF702\MISA-DUONG-MF702\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Misa Fresher\Misa-Duong-MF702\MISA-DUONG-MF702\MISA-DUONG-MF702\bin\Debug\net5.0\MISA.Common.dll
+E:\Misa Fresher\Misa-Duong-MF702\MISA-DUONG-MF702\MISA-DUONG-MF702\bin\Debug\net5.0\MISA.DataLayer.dll
+E:\Misa Fresher\Misa-Duong-MF702\MISA-DUONG-MF702\MISA-DUONG-MF702\bin\Debug\net5.0\MISA.Service.dll
+E:\Misa Fresher\Misa-Duong-MF702\MISA-DUONG-MF702\MISA-DUONG-MF702\bin\Debug\net5.0\MISA.Common.pdb
+E:\Misa Fresher\Misa-Duong-MF702\MISA-DUONG-MF702\MISA-DUONG-MF702\bin\Debug\net5.0\MISA.DataLayer.pdb
+E:\Misa Fresher\Misa-Duong-MF702\MISA-DUONG-MF702\MISA-DUONG-MF702\bin\Debug\net5.0\MISA.Service.pdb
+E:\Misa Fresher\Misa-Duong-MF702\MISA-DUONG-MF702\MISA-DUONG-MF702\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Misa Fresher\Misa-Duong-MF702\MISA-DUONG-MF702\MISA-DUONG-MF702\bin\Debug\net5.0\Humanizer.dll
+E:\Misa Fresher\Misa-Duong-MF702\MISA-DUONG-MF702\MISA-DUONG-MF702\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\Misa Fresher\Misa-Duong-MF702\MISA-DUONG-MF702\MISA-DUONG-MF702\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Misa Fresher\Misa-Duong-MF702\MISA-DUONG-MF702\MISA-DUONG-MF702\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Misa Fresher\Misa-Duong-MF702\MISA-DUONG-MF702\MISA-DUONG-MF702\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Misa Fresher\Misa-Duong-MF702\MISA-DUONG-MF702\MISA-DUONG-MF702\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\MF702-Nguyễn Sơn Dương\MISA.Web2021_02\MISA-DUONG-MF702\MISA-DUONG-MF702\bin\Debug\net5.0\appsettings.Development.json
+E:\MF702-Nguyễn Sơn Dương\MISA.Web2021_02\MISA-DUONG-MF702\MISA-DUONG-MF702\bin\Debug\net5.0\appsettings.json
+E:\MF702-Nguyễn Sơn Dương\MISA.Web2021_02\MISA-DUONG-MF702\MISA-DUONG-MF702\bin\Debug\net5.0\MISA-DUONG-MF702.exe
+E:\MF702-Nguyễn Sơn Dương\MISA.Web2021_02\MISA-DUONG-MF702\MISA-DUONG-MF702\bin\Debug\net5.0\MISA-DUONG-MF702.deps.json
+E:\MF702-Nguyễn Sơn Dương\MISA.Web2021_02\MISA-DUONG-MF702\MISA-DUONG-MF702\bin\Debug\net5.0\MISA-DUONG-MF702.runtimeconfig.json
+E:\MF702-Nguyễn Sơn Dương\MISA.Web2021_02\MISA-DUONG-MF702\MISA-DUONG-MF702\bin\Debug\net5.0\MISA-DUONG-MF702.runtimeconfig.dev.json
+E:\MF702-Nguyễn Sơn Dương\MISA.Web2021_02\MISA-DUONG-MF702\MISA-DUONG-MF702\bin\Debug\net5.0\MISA-DUONG-MF702.dll
+E:\MF702-Nguyễn Sơn Dương\MISA.Web2021_02\MISA-DUONG-MF702\MISA-DUONG-MF702\bin\Debug\net5.0\ref\MISA-DUONG-MF702.dll
+E:\MF702-Nguyễn Sơn Dương\MISA.Web2021_02\MISA-DUONG-MF702\MISA-DUONG-MF702\bin\Debug\net5.0\MISA-DUONG-MF702.pdb
+E:\MF702-Nguyễn Sơn Dương\MISA.Web2021_02\MISA-DUONG-MF702\MISA-DUONG-MF702\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+E:\MF702-Nguyễn Sơn Dương\MISA.Web2021_02\MISA-DUONG-MF702\MISA-DUONG-MF702\bin\Debug\net5.0\Dapper.dll
+E:\MF702-Nguyễn Sơn Dương\MISA.Web2021_02\MISA-DUONG-MF702\MISA-DUONG-MF702\bin\Debug\net5.0\Google.Protobuf.dll
+E:\MF702-Nguyễn Sơn Dương\MISA.Web2021_02\MISA-DUONG-MF702\MISA-DUONG-MF702\bin\Debug\net5.0\Humanizer.dll
+E:\MF702-Nguyễn Sơn Dương\MISA.Web2021_02\MISA-DUONG-MF702\MISA-DUONG-MF702\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+E:\MF702-Nguyễn Sơn Dương\MISA.Web2021_02\MISA-DUONG-MF702\MISA-DUONG-MF702\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+E:\MF702-Nguyễn Sơn Dương\MISA.Web2021_02\MISA-DUONG-MF702\MISA-DUONG-MF702\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+E:\MF702-Nguyễn Sơn Dương\MISA.Web2021_02\MISA-DUONG-MF702\MISA-DUONG-MF702\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+E:\MF702-Nguyễn Sơn Dương\MISA.Web2021_02\MISA-DUONG-MF702\MISA-DUONG-MF702\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\MF702-Nguyễn Sơn Dương\MISA.Web2021_02\MISA-DUONG-MF702\MISA-DUONG-MF702\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\MF702-Nguyễn Sơn Dương\MISA.Web2021_02\MISA-DUONG-MF702\MISA-DUONG-MF702\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\MF702-Nguyễn Sơn Dương\MISA.Web2021_02\MISA-DUONG-MF702\MISA-DUONG-MF702\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\MF702-Nguyễn Sơn Dương\MISA.Web2021_02\MISA-DUONG-MF702\MISA-DUONG-MF702\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\MF702-Nguyễn Sơn Dương\MISA.Web2021_02\MISA-DUONG-MF702\MISA-DUONG-MF702\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+E:\MF702-Nguyễn Sơn Dương\MISA.Web2021_02\MISA-DUONG-MF702\MISA-DUONG-MF702\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\MF702-Nguyễn Sơn Dương\MISA.Web2021_02\MISA-DUONG-MF702\MISA-DUONG-MF702\bin\Debug\net5.0\MySql.Data.dll
+E:\MF702-Nguyễn Sơn Dương\MISA.Web2021_02\MISA-DUONG-MF702\MISA-DUONG-MF702\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+E:\MF702-Nguyễn Sơn Dương\MISA.Web2021_02\MISA-DUONG-MF702\MISA-DUONG-MF702\bin\Debug\net5.0\Zstandard.Net.dll
+E:\MF702-Nguyễn Sơn Dương\MISA.Web2021_02\MISA-DUONG-MF702\MISA-DUONG-MF702\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\MF702-Nguyễn Sơn Dương\MISA.Web2021_02\MISA-DUONG-MF702\MISA-DUONG-MF702\bin\Debug\net5.0\Renci.SshNet.dll
+E:\MF702-Nguyễn Sơn Dương\MISA.Web2021_02\MISA-DUONG-MF702\MISA-DUONG-MF702\bin\Debug\net5.0\SshNet.Security.Cryptography.dll
+E:\MF702-Nguyễn Sơn Dương\MISA.Web2021_02\MISA-DUONG-MF702\MISA-DUONG-MF702\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\MF702-Nguyễn Sơn Dương\MISA.Web2021_02\MISA-DUONG-MF702\MISA-DUONG-MF702\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\MF702-Nguyễn Sơn Dương\MISA.Web2021_02\MISA-DUONG-MF702\MISA-DUONG-MF702\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\MF702-Nguyễn Sơn Dương\MISA.Web2021_02\MISA-DUONG-MF702\MISA-DUONG-MF702\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\MF702-Nguyễn Sơn Dương\MISA.Web2021_02\MISA-DUONG-MF702\MISA-DUONG-MF702\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\MF702-Nguyễn Sơn Dương\MISA.Web2021_02\MISA-DUONG-MF702\MISA-DUONG-MF702\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\MF702-Nguyễn Sơn Dương\MISA.Web2021_02\MISA-DUONG-MF702\MISA-DUONG-MF702\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\MF702-Nguyễn Sơn Dương\MISA.Web2021_02\MISA-DUONG-MF702\MISA-DUONG-MF702\bin\Debug\net5.0\MISA.Common.dll
+E:\MF702-Nguyễn Sơn Dương\MISA.Web2021_02\MISA-DUONG-MF702\MISA-DUONG-MF702\bin\Debug\net5.0\MISA.DataLayer.dll
+E:\MF702-Nguyễn Sơn Dương\MISA.Web2021_02\MISA-DUONG-MF702\MISA-DUONG-MF702\bin\Debug\net5.0\MISA.Service.dll
+E:\MF702-Nguyễn Sơn Dương\MISA.Web2021_02\MISA-DUONG-MF702\MISA-DUONG-MF702\bin\Debug\net5.0\MISA.Common.pdb
+E:\MF702-Nguyễn Sơn Dương\MISA.Web2021_02\MISA-DUONG-MF702\MISA-DUONG-MF702\bin\Debug\net5.0\MISA.DataLayer.pdb
+E:\MF702-Nguyễn Sơn Dương\MISA.Web2021_02\MISA-DUONG-MF702\MISA-DUONG-MF702\bin\Debug\net5.0\MISA.Service.pdb
+E:\MF702-Nguyễn Sơn Dương\MISA.Web2021_02\MISA-DUONG-MF702\MISA-DUONG-MF702\obj\Debug\net5.0\MISA-DUONG-MF702.csprojAssemblyReference.cache
+E:\MF702-Nguyễn Sơn Dương\MISA.Web2021_02\MISA-DUONG-MF702\MISA-DUONG-MF702\obj\Debug\net5.0\MISA-DUONG-MF702.GeneratedMSBuildEditorConfig.editorconfig
+E:\MF702-Nguyễn Sơn Dương\MISA.Web2021_02\MISA-DUONG-MF702\MISA-DUONG-MF702\obj\Debug\net5.0\MISA-DUONG-MF702.AssemblyInfoInputs.cache
+E:\MF702-Nguyễn Sơn Dương\MISA.Web2021_02\MISA-DUONG-MF702\MISA-DUONG-MF702\obj\Debug\net5.0\MISA-DUONG-MF702.AssemblyInfo.cs
+E:\MF702-Nguyễn Sơn Dương\MISA.Web2021_02\MISA-DUONG-MF702\MISA-DUONG-MF702\obj\Debug\net5.0\MISA-DUONG-MF702.csproj.CoreCompileInputs.cache
+E:\MF702-Nguyễn Sơn Dương\MISA.Web2021_02\MISA-DUONG-MF702\MISA-DUONG-MF702\obj\Debug\net5.0\MISA-DUONG-MF702.MvcApplicationPartsAssemblyInfo.cs
+E:\MF702-Nguyễn Sơn Dương\MISA.Web2021_02\MISA-DUONG-MF702\MISA-DUONG-MF702\obj\Debug\net5.0\MISA-DUONG-MF702.MvcApplicationPartsAssemblyInfo.cache
+E:\MF702-Nguyễn Sơn Dương\MISA.Web2021_02\MISA-DUONG-MF702\MISA-DUONG-MF702\obj\Debug\net5.0\staticwebassets\MISA-DUONG-MF702.StaticWebAssets.Manifest.cache
+E:\MF702-Nguyễn Sơn Dương\MISA.Web2021_02\MISA-DUONG-MF702\MISA-DUONG-MF702\obj\Debug\net5.0\staticwebassets\MISA-DUONG-MF702.StaticWebAssets.xml
+E:\MF702-Nguyễn Sơn Dương\MISA.Web2021_02\MISA-DUONG-MF702\MISA-DUONG-MF702\obj\Debug\net5.0\scopedcss\bundle\MISA-DUONG-MF702.styles.css
+E:\MF702-Nguyễn Sơn Dương\MISA.Web2021_02\MISA-DUONG-MF702\MISA-DUONG-MF702\obj\Debug\net5.0\MISA-DUONG-MF702.RazorTargetAssemblyInfo.cache
+E:\MF702-Nguyễn Sơn Dương\MISA.Web2021_02\MISA-DUONG-MF702\MISA-DUONG-MF702\obj\Debug\net5.0\MISA-DUONG-MF702.csproj.CopyComplete
+E:\MF702-Nguyễn Sơn Dương\MISA.Web2021_02\MISA-DUONG-MF702\MISA-DUONG-MF702\obj\Debug\net5.0\MISA-DUONG-MF702.dll
+E:\MF702-Nguyễn Sơn Dương\MISA.Web2021_02\MISA-DUONG-MF702\MISA-DUONG-MF702\obj\Debug\net5.0\ref\MISA-DUONG-MF702.dll
+E:\MF702-Nguyễn Sơn Dương\MISA.Web2021_02\MISA-DUONG-MF702\MISA-DUONG-MF702\obj\Debug\net5.0\MISA-DUONG-MF702.pdb
+E:\MF702-Nguyễn Sơn Dương\MISA.Web2021_02\MISA-DUONG-MF702\MISA-DUONG-MF702\obj\Debug\net5.0\MISA-DUONG-MF702.genruntimeconfig.cache
+E:\MF702-Nguyễn Sơn Dương\MISA.Web2021_02\MISA-DUONG-MF702\MISA-DUONG-MF702\bin\Debug\net5.0\System.Data.SqlClient.dll
+E:\MF702-Nguyễn Sơn Dương\MISA.Web2021_02\MISA-DUONG-MF702\MISA-DUONG-MF702\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+E:\MF702-Nguyễn Sơn Dương\MISA.Web2021_02\MISA-DUONG-MF702\MISA-DUONG-MF702\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+E:\MF702-Nguyễn Sơn Dương\MISA.Web2021_02\MISA-DUONG-MF702\MISA-DUONG-MF702\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+E:\MF702-Nguyễn Sơn Dương\MISA.Web2021_02\MISA-DUONG-MF702\MISA-DUONG-MF702\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\MF702-Nguyễn Sơn Dương\MISA.Web2021_02\MISA-DUONG-MF702\MISA-DUONG-MF702\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

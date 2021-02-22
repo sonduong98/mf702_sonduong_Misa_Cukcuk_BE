@@ -1,0 +1,24 @@
+E:\Misa Fresher\Misa-Duong-MF702\MISA-DUONG-MF702\MISA.DataLayer\bin\Debug\netcoreapp3.1\MISA.DataLayer.deps.json
+E:\Misa Fresher\Misa-Duong-MF702\MISA-DUONG-MF702\MISA.DataLayer\bin\Debug\netcoreapp3.1\MISA.DataLayer.dll
+E:\Misa Fresher\Misa-Duong-MF702\MISA-DUONG-MF702\MISA.DataLayer\bin\Debug\netcoreapp3.1\MISA.DataLayer.pdb
+E:\Misa Fresher\Misa-Duong-MF702\MISA-DUONG-MF702\MISA.DataLayer\obj\Debug\netcoreapp3.1\MISA.DataLayer.csprojAssemblyReference.cache
+E:\Misa Fresher\Misa-Duong-MF702\MISA-DUONG-MF702\MISA.DataLayer\obj\Debug\netcoreapp3.1\MISA.DataLayer.AssemblyInfoInputs.cache
+E:\Misa Fresher\Misa-Duong-MF702\MISA-DUONG-MF702\MISA.DataLayer\obj\Debug\netcoreapp3.1\MISA.DataLayer.AssemblyInfo.cs
+E:\Misa Fresher\Misa-Duong-MF702\MISA-DUONG-MF702\MISA.DataLayer\obj\Debug\netcoreapp3.1\MISA.DataLayer.csproj.CoreCompileInputs.cache
+E:\Misa Fresher\Misa-Duong-MF702\MISA-DUONG-MF702\MISA.DataLayer\obj\Debug\netcoreapp3.1\MISA.DataLayer.dll
+E:\Misa Fresher\Misa-Duong-MF702\MISA-DUONG-MF702\MISA.DataLayer\obj\Debug\netcoreapp3.1\MISA.DataLayer.pdb
+E:\Misa Fresher\Misa-Duong-MF702\MISA-DUONG-MF702\MISA.DataLayer\bin\Debug\netcoreapp3.1\MISA.DataLayer.runtimeconfig.json
+E:\Misa Fresher\Misa-Duong-MF702\MISA-DUONG-MF702\MISA.DataLayer\bin\Debug\netcoreapp3.1\MISA.DataLayer.runtimeconfig.dev.json
+E:\Misa Fresher\Misa-Duong-MF702\MISA-DUONG-MF702\MISA.DataLayer\obj\Debug\netcoreapp3.1\MISA.DataLayer.genruntimeconfig.cache
+E:\MF702-Nguyễn Sơn Dương\MISA.Web2021_02\MISA-DUONG-MF702\MISA.DataLayer\bin\Debug\netcoreapp3.1\MISA.DataLayer.deps.json
+E:\MF702-Nguyễn Sơn Dương\MISA.Web2021_02\MISA-DUONG-MF702\MISA.DataLayer\bin\Debug\netcoreapp3.1\MISA.DataLayer.runtimeconfig.json
+E:\MF702-Nguyễn Sơn Dương\MISA.Web2021_02\MISA-DUONG-MF702\MISA.DataLayer\bin\Debug\netcoreapp3.1\MISA.DataLayer.runtimeconfig.dev.json
+E:\MF702-Nguyễn Sơn Dương\MISA.Web2021_02\MISA-DUONG-MF702\MISA.DataLayer\bin\Debug\netcoreapp3.1\MISA.DataLayer.dll
+E:\MF702-Nguyễn Sơn Dương\MISA.Web2021_02\MISA-DUONG-MF702\MISA.DataLayer\bin\Debug\netcoreapp3.1\MISA.DataLayer.pdb
+E:\MF702-Nguyễn Sơn Dương\MISA.Web2021_02\MISA-DUONG-MF702\MISA.DataLayer\obj\Debug\netcoreapp3.1\MISA.DataLayer.csprojAssemblyReference.cache
+E:\MF702-Nguyễn Sơn Dương\MISA.Web2021_02\MISA-DUONG-MF702\MISA.DataLayer\obj\Debug\netcoreapp3.1\MISA.DataLayer.AssemblyInfoInputs.cache
+E:\MF702-Nguyễn Sơn Dương\MISA.Web2021_02\MISA-DUONG-MF702\MISA.DataLayer\obj\Debug\netcoreapp3.1\MISA.DataLayer.AssemblyInfo.cs
+E:\MF702-Nguyễn Sơn Dương\MISA.Web2021_02\MISA-DUONG-MF702\MISA.DataLayer\obj\Debug\netcoreapp3.1\MISA.DataLayer.csproj.CoreCompileInputs.cache
+E:\MF702-Nguyễn Sơn Dương\MISA.Web2021_02\MISA-DUONG-MF702\MISA.DataLayer\obj\Debug\netcoreapp3.1\MISA.DataLayer.dll
+E:\MF702-Nguyễn Sơn Dương\MISA.Web2021_02\MISA-DUONG-MF702\MISA.DataLayer\obj\Debug\netcoreapp3.1\MISA.DataLayer.pdb
+E:\MF702-Nguyễn Sơn Dương\MISA.Web2021_02\MISA-DUONG-MF702\MISA.DataLayer\obj\Debug\netcoreapp3.1\MISA.DataLayer.genruntimeconfig.cache

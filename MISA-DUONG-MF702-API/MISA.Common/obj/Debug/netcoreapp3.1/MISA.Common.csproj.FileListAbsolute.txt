@@ -1,0 +1,18 @@
+E:\Misa Fresher\Misa-Duong-MF702\MISA-DUONG-MF702\MISA.Common\obj\Debug\netcoreapp3.1\MISA.Common.AssemblyInfoInputs.cache
+E:\Misa Fresher\Misa-Duong-MF702\MISA-DUONG-MF702\MISA.Common\obj\Debug\netcoreapp3.1\MISA.Common.AssemblyInfo.cs
+E:\Misa Fresher\Misa-Duong-MF702\MISA-DUONG-MF702\MISA.Common\obj\Debug\netcoreapp3.1\MISA.Common.csproj.CoreCompileInputs.cache
+E:\Misa Fresher\Misa-Duong-MF702\MISA-DUONG-MF702\MISA.Common\bin\Debug\netcoreapp3.1\MISA.Common.deps.json
+E:\Misa Fresher\Misa-Duong-MF702\MISA-DUONG-MF702\MISA.Common\bin\Debug\netcoreapp3.1\MISA.Common.dll
+E:\Misa Fresher\Misa-Duong-MF702\MISA-DUONG-MF702\MISA.Common\bin\Debug\netcoreapp3.1\MISA.Common.pdb
+E:\Misa Fresher\Misa-Duong-MF702\MISA-DUONG-MF702\MISA.Common\obj\Debug\netcoreapp3.1\MISA.Common.dll
+E:\Misa Fresher\Misa-Duong-MF702\MISA-DUONG-MF702\MISA.Common\obj\Debug\netcoreapp3.1\MISA.Common.pdb
+E:\Misa Fresher\Misa-Duong-MF702\MISA-DUONG-MF702\MISA.Common\obj\Debug\netcoreapp3.1\MISA.Common.csprojAssemblyReference.cache
+E:\MF702-Nguyễn Sơn Dương\MISA.Web2021_02\MISA-DUONG-MF702\MISA.Common\bin\Debug\netcoreapp3.1\MISA.Common.deps.json
+E:\MF702-Nguyễn Sơn Dương\MISA.Web2021_02\MISA-DUONG-MF702\MISA.Common\bin\Debug\netcoreapp3.1\MISA.Common.dll
+E:\MF702-Nguyễn Sơn Dương\MISA.Web2021_02\MISA-DUONG-MF702\MISA.Common\bin\Debug\netcoreapp3.1\MISA.Common.pdb
+E:\MF702-Nguyễn Sơn Dương\MISA.Web2021_02\MISA-DUONG-MF702\MISA.Common\obj\Debug\netcoreapp3.1\MISA.Common.csprojAssemblyReference.cache
+E:\MF702-Nguyễn Sơn Dương\MISA.Web2021_02\MISA-DUONG-MF702\MISA.Common\obj\Debug\netcoreapp3.1\MISA.Common.AssemblyInfoInputs.cache
+E:\MF702-Nguyễn Sơn Dương\MISA.Web2021_02\MISA-DUONG-MF702\MISA.Common\obj\Debug\netcoreapp3.1\MISA.Common.AssemblyInfo.cs
+E:\MF702-Nguyễn Sơn Dương\MISA.Web2021_02\MISA-DUONG-MF702\MISA.Common\obj\Debug\netcoreapp3.1\MISA.Common.csproj.CoreCompileInputs.cache
+E:\MF702-Nguyễn Sơn Dương\MISA.Web2021_02\MISA-DUONG-MF702\MISA.Common\obj\Debug\netcoreapp3.1\MISA.Common.dll
+E:\MF702-Nguyễn Sơn Dương\MISA.Web2021_02\MISA-DUONG-MF702\MISA.Common\obj\Debug\netcoreapp3.1\MISA.Common.pdb
