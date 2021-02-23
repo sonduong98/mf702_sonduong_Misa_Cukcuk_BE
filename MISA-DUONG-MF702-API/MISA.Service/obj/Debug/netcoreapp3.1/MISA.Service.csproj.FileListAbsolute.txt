@@ -26,3 +26,17 @@ E:\MF702-Nguyễn Sơn Dương\MISA.Web2021_02\MISA-DUONG-MF702\MISA.Service\obj
 E:\MF702-Nguyễn Sơn Dương\MISA.Web2021_02\MISA-DUONG-MF702\MISA.Service\obj\Debug\netcoreapp3.1\MISA.Service.csproj.CopyComplete
 E:\MF702-Nguyễn Sơn Dương\MISA.Web2021_02\MISA-DUONG-MF702\MISA.Service\obj\Debug\netcoreapp3.1\MISA.Service.dll
 E:\MF702-Nguyễn Sơn Dương\MISA.Web2021_02\MISA-DUONG-MF702\MISA.Service\obj\Debug\netcoreapp3.1\MISA.Service.pdb
+D:\MF702_Duong_Misa_Cukcuk_Official\MISA-DUONG-MF702-API\MISA.Service\bin\Debug\netcoreapp3.1\MISA.Service.deps.json
+D:\MF702_Duong_Misa_Cukcuk_Official\MISA-DUONG-MF702-API\MISA.Service\bin\Debug\netcoreapp3.1\MISA.Service.dll
+D:\MF702_Duong_Misa_Cukcuk_Official\MISA-DUONG-MF702-API\MISA.Service\bin\Debug\netcoreapp3.1\MISA.Service.pdb
+D:\MF702_Duong_Misa_Cukcuk_Official\MISA-DUONG-MF702-API\MISA.Service\bin\Debug\netcoreapp3.1\MISA.Common.dll
+D:\MF702_Duong_Misa_Cukcuk_Official\MISA-DUONG-MF702-API\MISA.Service\bin\Debug\netcoreapp3.1\MISA.DataLayer.dll
+D:\MF702_Duong_Misa_Cukcuk_Official\MISA-DUONG-MF702-API\MISA.Service\bin\Debug\netcoreapp3.1\MISA.Common.pdb
+D:\MF702_Duong_Misa_Cukcuk_Official\MISA-DUONG-MF702-API\MISA.Service\bin\Debug\netcoreapp3.1\MISA.DataLayer.pdb
+D:\MF702_Duong_Misa_Cukcuk_Official\MISA-DUONG-MF702-API\MISA.Service\obj\Debug\netcoreapp3.1\MISA.Service.csprojAssemblyReference.cache
+D:\MF702_Duong_Misa_Cukcuk_Official\MISA-DUONG-MF702-API\MISA.Service\obj\Debug\netcoreapp3.1\MISA.Service.AssemblyInfoInputs.cache
+D:\MF702_Duong_Misa_Cukcuk_Official\MISA-DUONG-MF702-API\MISA.Service\obj\Debug\netcoreapp3.1\MISA.Service.AssemblyInfo.cs
+D:\MF702_Duong_Misa_Cukcuk_Official\MISA-DUONG-MF702-API\MISA.Service\obj\Debug\netcoreapp3.1\MISA.Service.csproj.CoreCompileInputs.cache
+D:\MF702_Duong_Misa_Cukcuk_Official\MISA-DUONG-MF702-API\MISA.Service\obj\Debug\netcoreapp3.1\MISA.Service.csproj.CopyComplete
+D:\MF702_Duong_Misa_Cukcuk_Official\MISA-DUONG-MF702-API\MISA.Service\obj\Debug\netcoreapp3.1\MISA.Service.dll
+D:\MF702_Duong_Misa_Cukcuk_Official\MISA-DUONG-MF702-API\MISA.Service\obj\Debug\netcoreapp3.1\MISA.Service.pdb

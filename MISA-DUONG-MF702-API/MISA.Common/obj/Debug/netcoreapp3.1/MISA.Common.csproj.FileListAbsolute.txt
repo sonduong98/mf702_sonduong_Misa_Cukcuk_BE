@@ -16,3 +16,12 @@ E:\MF702-Nguyễn Sơn Dương\MISA.Web2021_02\MISA-DUONG-MF702\MISA.Common\obj\
 E:\MF702-Nguyễn Sơn Dương\MISA.Web2021_02\MISA-DUONG-MF702\MISA.Common\obj\Debug\netcoreapp3.1\MISA.Common.csproj.CoreCompileInputs.cache
 E:\MF702-Nguyễn Sơn Dương\MISA.Web2021_02\MISA-DUONG-MF702\MISA.Common\obj\Debug\netcoreapp3.1\MISA.Common.dll
 E:\MF702-Nguyễn Sơn Dương\MISA.Web2021_02\MISA-DUONG-MF702\MISA.Common\obj\Debug\netcoreapp3.1\MISA.Common.pdb
+D:\MF702_Duong_Misa_Cukcuk_Official\MISA-DUONG-MF702-API\MISA.Common\bin\Debug\netcoreapp3.1\MISA.Common.deps.json
+D:\MF702_Duong_Misa_Cukcuk_Official\MISA-DUONG-MF702-API\MISA.Common\bin\Debug\netcoreapp3.1\MISA.Common.dll
+D:\MF702_Duong_Misa_Cukcuk_Official\MISA-DUONG-MF702-API\MISA.Common\bin\Debug\netcoreapp3.1\MISA.Common.pdb
+D:\MF702_Duong_Misa_Cukcuk_Official\MISA-DUONG-MF702-API\MISA.Common\obj\Debug\netcoreapp3.1\MISA.Common.csprojAssemblyReference.cache
+D:\MF702_Duong_Misa_Cukcuk_Official\MISA-DUONG-MF702-API\MISA.Common\obj\Debug\netcoreapp3.1\MISA.Common.AssemblyInfoInputs.cache
+D:\MF702_Duong_Misa_Cukcuk_Official\MISA-DUONG-MF702-API\MISA.Common\obj\Debug\netcoreapp3.1\MISA.Common.AssemblyInfo.cs
+D:\MF702_Duong_Misa_Cukcuk_Official\MISA-DUONG-MF702-API\MISA.Common\obj\Debug\netcoreapp3.1\MISA.Common.csproj.CoreCompileInputs.cache
+D:\MF702_Duong_Misa_Cukcuk_Official\MISA-DUONG-MF702-API\MISA.Common\obj\Debug\netcoreapp3.1\MISA.Common.dll
+D:\MF702_Duong_Misa_Cukcuk_Official\MISA-DUONG-MF702-API\MISA.Common\obj\Debug\netcoreapp3.1\MISA.Common.pdb

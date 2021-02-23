@@ -18,6 +18,12 @@ namespace MISA.Service.Employee
         public async Task<IPagedList<Common.Models.Employee>> GetAll(GlobalParamFilter filters)
         {
             var query = await _context.GetData<MISA.Common.Models.Employee>();
+
+            if (filters.WorkState != 0)
+                query = query.Where(c => c.WorkState == filters.WorkState);
+            if (filters.Gender != -1)
+                query = query.Where(c => c.Gender == filters.Gender);
+
             query = this.SortData(query.AsQueryable(), filters.SortBy, filters.OrderBy);
 
             var results = query.AsQueryable();

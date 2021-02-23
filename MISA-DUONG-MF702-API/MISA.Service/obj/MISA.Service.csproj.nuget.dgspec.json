@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Đánh_Giá_Misa_Oficial\\MISA-DUONG-MF702-API\\MISA.Service\\MISA.Service.csproj": {}
+    "D:\\MF702_Duong_Misa_Cukcuk_Official\\MISA-DUONG-MF702-API\\MISA.Service\\MISA.Service.csproj": {}
   },
   "projects": {
-    "E:\\Đánh_Giá_Misa_Oficial\\MISA-DUONG-MF702-API\\MISA.Common\\MISA.Common.csproj": {
+    "D:\\MF702_Duong_Misa_Cukcuk_Official\\MISA-DUONG-MF702-API\\MISA.Common\\MISA.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Đánh_Giá_Misa_Oficial\\MISA-DUONG-MF702-API\\MISA.Common\\MISA.Common.csproj",
+        "projectUniqueName": "D:\\MF702_Duong_Misa_Cukcuk_Official\\MISA-DUONG-MF702-API\\MISA.Common\\MISA.Common.csproj",
         "projectName": "MISA.Common",
-        "projectPath": "E:\\Đánh_Giá_Misa_Oficial\\MISA-DUONG-MF702-API\\MISA.Common\\MISA.Common.csproj",
+        "projectPath": "D:\\MF702_Duong_Misa_Cukcuk_Official\\MISA-DUONG-MF702-API\\MISA.Common\\MISA.Common.csproj",
         "packagesPath": "C:\\Users\\DUONG\\.nuget\\packages\\",
-        "outputPath": "E:\\Đánh_Giá_Misa_Oficial\\MISA-DUONG-MF702-API\\MISA.Common\\obj\\",
+        "outputPath": "D:\\MF702_Duong_Misa_Cukcuk_Official\\MISA-DUONG-MF702-API\\MISA.Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DUONG\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -68,14 +68,14 @@
         }
       }
     },
-    "E:\\Đánh_Giá_Misa_Oficial\\MISA-DUONG-MF702-API\\MISA.DataLayer\\MISA.DataLayer.csproj": {
+    "D:\\MF702_Duong_Misa_Cukcuk_Official\\MISA-DUONG-MF702-API\\MISA.DataLayer\\MISA.DataLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Đánh_Giá_Misa_Oficial\\MISA-DUONG-MF702-API\\MISA.DataLayer\\MISA.DataLayer.csproj",
+        "projectUniqueName": "D:\\MF702_Duong_Misa_Cukcuk_Official\\MISA-DUONG-MF702-API\\MISA.DataLayer\\MISA.DataLayer.csproj",
         "projectName": "MISA.DataLayer",
-        "projectPath": "E:\\Đánh_Giá_Misa_Oficial\\MISA-DUONG-MF702-API\\MISA.DataLayer\\MISA.DataLayer.csproj",
+        "projectPath": "D:\\MF702_Duong_Misa_Cukcuk_Official\\MISA-DUONG-MF702-API\\MISA.DataLayer\\MISA.DataLayer.csproj",
         "packagesPath": "C:\\Users\\DUONG\\.nuget\\packages\\",
-        "outputPath": "E:\\Đánh_Giá_Misa_Oficial\\MISA-DUONG-MF702-API\\MISA.DataLayer\\obj\\",
+        "outputPath": "D:\\MF702_Duong_Misa_Cukcuk_Official\\MISA-DUONG-MF702-API\\MISA.DataLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DUONG\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -146,14 +146,14 @@
         }
       }
     },
-    "E:\\Đánh_Giá_Misa_Oficial\\MISA-DUONG-MF702-API\\MISA.Service\\MISA.Service.csproj": {
+    "D:\\MF702_Duong_Misa_Cukcuk_Official\\MISA-DUONG-MF702-API\\MISA.Service\\MISA.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Đánh_Giá_Misa_Oficial\\MISA-DUONG-MF702-API\\MISA.Service\\MISA.Service.csproj",
+        "projectUniqueName": "D:\\MF702_Duong_Misa_Cukcuk_Official\\MISA-DUONG-MF702-API\\MISA.Service\\MISA.Service.csproj",
         "projectName": "MISA.Service",
-        "projectPath": "E:\\Đánh_Giá_Misa_Oficial\\MISA-DUONG-MF702-API\\MISA.Service\\MISA.Service.csproj",
+        "projectPath": "D:\\MF702_Duong_Misa_Cukcuk_Official\\MISA-DUONG-MF702-API\\MISA.Service\\MISA.Service.csproj",
         "packagesPath": "C:\\Users\\DUONG\\.nuget\\packages\\",
-        "outputPath": "E:\\Đánh_Giá_Misa_Oficial\\MISA-DUONG-MF702-API\\MISA.Service\\obj\\",
+        "outputPath": "D:\\MF702_Duong_Misa_Cukcuk_Official\\MISA-DUONG-MF702-API\\MISA.Service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DUONG\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -170,11 +170,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "E:\\Đánh_Giá_Misa_Oficial\\MISA-DUONG-MF702-API\\MISA.Common\\MISA.Common.csproj": {
-                "projectPath": "E:\\Đánh_Giá_Misa_Oficial\\MISA-DUONG-MF702-API\\MISA.Common\\MISA.Common.csproj"
+              "D:\\MF702_Duong_Misa_Cukcuk_Official\\MISA-DUONG-MF702-API\\MISA.Common\\MISA.Common.csproj": {
+                "projectPath": "D:\\MF702_Duong_Misa_Cukcuk_Official\\MISA-DUONG-MF702-API\\MISA.Common\\MISA.Common.csproj"
               },
-              "E:\\Đánh_Giá_Misa_Oficial\\MISA-DUONG-MF702-API\\MISA.DataLayer\\MISA.DataLayer.csproj": {
-                "projectPath": "E:\\Đánh_Giá_Misa_Oficial\\MISA-DUONG-MF702-API\\MISA.DataLayer\\MISA.DataLayer.csproj"
+              "D:\\MF702_Duong_Misa_Cukcuk_Official\\MISA-DUONG-MF702-API\\MISA.DataLayer\\MISA.DataLayer.csproj": {
+                "projectPath": "D:\\MF702_Duong_Misa_Cukcuk_Official\\MISA-DUONG-MF702-API\\MISA.DataLayer\\MISA.DataLayer.csproj"
               }
             }
           }

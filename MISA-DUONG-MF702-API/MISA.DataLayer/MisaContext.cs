@@ -52,10 +52,14 @@ namespace MISA.DataLayer
             {
                 var propertyName = propety.Name;
                 var propertyValue = propety.GetValue(entity);
-                parameters.Add($"@{propertyName}", propertyValue);
+                if (propertyName != "EmployeeId")
+                {
+                    parameters.Add($"@{propertyName}", propertyValue);
 
-                sqlPropetyBuider += $",{propertyName}";
-                sqlPropetyParamBuider += $",@{propertyName}";
+                    sqlPropetyBuider += $",{propertyName}";
+                    sqlPropetyParamBuider += $",@{propertyName}";
+                }
+                    
             }
             var sql = $"INSERT INTO {className}({sqlPropetyBuider.Substring(1)}) VALUES ({sqlPropetyParamBuider.Substring(1)})";
             var effectRows = await _dbConnection.ExecuteAsync(sql, parameters);
@@ -63,6 +67,7 @@ namespace MISA.DataLayer
         }
         public async Task<int> Update<TEntity>(TEntity entity)
         {
+            int id=0;
             string className = typeof(TEntity).Name;
             var properties = typeof(TEntity).GetProperties();
             var parameters = new DynamicParameters();
@@ -73,11 +78,18 @@ namespace MISA.DataLayer
                 var propertyName = propety.Name;
                 var propertyValue = propety.GetValue(entity);
                 parameters.Add($"@{propertyName}", propertyValue);
-                if(propertyName != "EmployeeId")
+                if(propertyName == "EmployeeId")
+                {
+                    id = Int32.Parse(propertyValue.ToString()); 
+                }
+                else
+                {
                     sqlPropetyBuider += $",{propertyName}=@{propertyName}";
+                }
+                   
                 sqlPropetyParamBuider += $",@{propertyName}";
             }
-            var sql = $"Update  {className} SET {sqlPropetyBuider.Substring(1)} where EmployeeId={properties[0].GetValue(entity)}";
+            var sql = $"Update  {className} SET {sqlPropetyBuider.Substring(1)} where EmployeeId={id}";
             var effectRows = await _dbConnection.ExecuteAsync(sql, parameters);
             return effectRows;
         }

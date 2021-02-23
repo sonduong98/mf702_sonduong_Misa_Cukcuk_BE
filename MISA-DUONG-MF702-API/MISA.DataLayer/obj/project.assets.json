@@ -1983,11 +1983,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Đánh_Giá_Misa_Oficial\\MISA-DUONG-MF702-API\\MISA.DataLayer\\MISA.DataLayer.csproj",
+      "projectUniqueName": "D:\\MF702_Duong_Misa_Cukcuk_Official\\MISA-DUONG-MF702-API\\MISA.DataLayer\\MISA.DataLayer.csproj",
       "projectName": "MISA.DataLayer",
-      "projectPath": "E:\\Đánh_Giá_Misa_Oficial\\MISA-DUONG-MF702-API\\MISA.DataLayer\\MISA.DataLayer.csproj",
+      "projectPath": "D:\\MF702_Duong_Misa_Cukcuk_Official\\MISA-DUONG-MF702-API\\MISA.DataLayer\\MISA.DataLayer.csproj",
       "packagesPath": "C:\\Users\\DUONG\\.nuget\\packages\\",
-      "outputPath": "E:\\Đánh_Giá_Misa_Oficial\\MISA-DUONG-MF702-API\\MISA.DataLayer\\obj\\",
+      "outputPath": "D:\\MF702_Duong_Misa_Cukcuk_Official\\MISA-DUONG-MF702-API\\MISA.DataLayer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DUONG\\AppData\\Roaming\\NuGet\\NuGet.Config",

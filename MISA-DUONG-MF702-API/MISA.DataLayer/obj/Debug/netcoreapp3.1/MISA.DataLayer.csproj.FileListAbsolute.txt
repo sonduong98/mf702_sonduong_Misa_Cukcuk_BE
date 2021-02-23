@@ -22,3 +22,15 @@ E:\MF702-Nguyễn Sơn Dương\MISA.Web2021_02\MISA-DUONG-MF702\MISA.DataLayer\o
 E:\MF702-Nguyễn Sơn Dương\MISA.Web2021_02\MISA-DUONG-MF702\MISA.DataLayer\obj\Debug\netcoreapp3.1\MISA.DataLayer.dll
 E:\MF702-Nguyễn Sơn Dương\MISA.Web2021_02\MISA-DUONG-MF702\MISA.DataLayer\obj\Debug\netcoreapp3.1\MISA.DataLayer.pdb
 E:\MF702-Nguyễn Sơn Dương\MISA.Web2021_02\MISA-DUONG-MF702\MISA.DataLayer\obj\Debug\netcoreapp3.1\MISA.DataLayer.genruntimeconfig.cache
+D:\MF702_Duong_Misa_Cukcuk_Official\MISA-DUONG-MF702-API\MISA.DataLayer\bin\Debug\netcoreapp3.1\MISA.DataLayer.deps.json
+D:\MF702_Duong_Misa_Cukcuk_Official\MISA-DUONG-MF702-API\MISA.DataLayer\bin\Debug\netcoreapp3.1\MISA.DataLayer.runtimeconfig.json
+D:\MF702_Duong_Misa_Cukcuk_Official\MISA-DUONG-MF702-API\MISA.DataLayer\bin\Debug\netcoreapp3.1\MISA.DataLayer.runtimeconfig.dev.json
+D:\MF702_Duong_Misa_Cukcuk_Official\MISA-DUONG-MF702-API\MISA.DataLayer\bin\Debug\netcoreapp3.1\MISA.DataLayer.dll
+D:\MF702_Duong_Misa_Cukcuk_Official\MISA-DUONG-MF702-API\MISA.DataLayer\bin\Debug\netcoreapp3.1\MISA.DataLayer.pdb
+D:\MF702_Duong_Misa_Cukcuk_Official\MISA-DUONG-MF702-API\MISA.DataLayer\obj\Debug\netcoreapp3.1\MISA.DataLayer.csprojAssemblyReference.cache
+D:\MF702_Duong_Misa_Cukcuk_Official\MISA-DUONG-MF702-API\MISA.DataLayer\obj\Debug\netcoreapp3.1\MISA.DataLayer.AssemblyInfoInputs.cache
+D:\MF702_Duong_Misa_Cukcuk_Official\MISA-DUONG-MF702-API\MISA.DataLayer\obj\Debug\netcoreapp3.1\MISA.DataLayer.AssemblyInfo.cs
+D:\MF702_Duong_Misa_Cukcuk_Official\MISA-DUONG-MF702-API\MISA.DataLayer\obj\Debug\netcoreapp3.1\MISA.DataLayer.csproj.CoreCompileInputs.cache
+D:\MF702_Duong_Misa_Cukcuk_Official\MISA-DUONG-MF702-API\MISA.DataLayer\obj\Debug\netcoreapp3.1\MISA.DataLayer.dll
+D:\MF702_Duong_Misa_Cukcuk_Official\MISA-DUONG-MF702-API\MISA.DataLayer\obj\Debug\netcoreapp3.1\MISA.DataLayer.pdb
+D:\MF702_Duong_Misa_Cukcuk_Official\MISA-DUONG-MF702-API\MISA.DataLayer\obj\Debug\netcoreapp3.1\MISA.DataLayer.genruntimeconfig.cache

@@ -5250,11 +5250,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Đánh_Giá_Misa_Oficial\\MISA-DUONG-MF702-API\\MISA.Service\\MISA.Service.csproj",
+      "projectUniqueName": "D:\\MF702_Duong_Misa_Cukcuk_Official\\MISA-DUONG-MF702-API\\MISA.Service\\MISA.Service.csproj",
       "projectName": "MISA.Service",
-      "projectPath": "E:\\Đánh_Giá_Misa_Oficial\\MISA-DUONG-MF702-API\\MISA.Service\\MISA.Service.csproj",
+      "projectPath": "D:\\MF702_Duong_Misa_Cukcuk_Official\\MISA-DUONG-MF702-API\\MISA.Service\\MISA.Service.csproj",
       "packagesPath": "C:\\Users\\DUONG\\.nuget\\packages\\",
-      "outputPath": "E:\\Đánh_Giá_Misa_Oficial\\MISA-DUONG-MF702-API\\MISA.Service\\obj\\",
+      "outputPath": "D:\\MF702_Duong_Misa_Cukcuk_Official\\MISA-DUONG-MF702-API\\MISA.Service\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DUONG\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5271,11 +5271,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "E:\\Đánh_Giá_Misa_Oficial\\MISA-DUONG-MF702-API\\MISA.Common\\MISA.Common.csproj": {
-              "projectPath": "E:\\Đánh_Giá_Misa_Oficial\\MISA-DUONG-MF702-API\\MISA.Common\\MISA.Common.csproj"
+            "D:\\MF702_Duong_Misa_Cukcuk_Official\\MISA-DUONG-MF702-API\\MISA.Common\\MISA.Common.csproj": {
+              "projectPath": "D:\\MF702_Duong_Misa_Cukcuk_Official\\MISA-DUONG-MF702-API\\MISA.Common\\MISA.Common.csproj"
             },
-            "E:\\Đánh_Giá_Misa_Oficial\\MISA-DUONG-MF702-API\\MISA.DataLayer\\MISA.DataLayer.csproj": {
-              "projectPath": "E:\\Đánh_Giá_Misa_Oficial\\MISA-DUONG-MF702-API\\MISA.DataLayer\\MISA.DataLayer.csproj"
+            "D:\\MF702_Duong_Misa_Cukcuk_Official\\MISA-DUONG-MF702-API\\MISA.DataLayer\\MISA.DataLayer.csproj": {
+              "projectPath": "D:\\MF702_Duong_Misa_Cukcuk_Official\\MISA-DUONG-MF702-API\\MISA.DataLayer\\MISA.DataLayer.csproj"
             }
           }
         }

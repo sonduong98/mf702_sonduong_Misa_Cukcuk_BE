@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EMWPiI9hP6oBlFK3O3zSAALnRezliH26/oo27Oa5bB98ITBJ8RvmAsmU2LGMf4wS3yIX7VHGXGO+dh1XnvVhXg==",
+  "dgSpecHash": "jZFPj70y8jCqSOuxONy6+XkRUznsfql3gaw1mRsQhTu2X7yIAPjvA7HF5Bm+/l+RvbDpU7rkxdhnYPMUwKg7NA==",
   "success": true,
-  "projectFilePath": "E:\\Đánh_Giá_Misa_Oficial\\MISA-DUONG-MF702-API\\MISA.Common\\MISA.Common.csproj",
+  "projectFilePath": "D:\\MF702_Duong_Misa_Cukcuk_Official\\MISA-DUONG-MF702-API\\MISA.Common\\MISA.Common.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DUONG\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\DUONG\\.nuget\\packages\\microsoft.aspnetcore.authentication.core\\2.2.0\\microsoft.aspnetcore.authentication.core.2.2.0.nupkg.sha512",

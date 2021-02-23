@@ -7,7 +7,7 @@ namespace MISA.Common.Models
 {
     public partial class Employee :BaseModel
     {
-        
+        public int? RoleId { get; set; }
         public string EmployeeCode { get; set; }
         public string FirstName { get; set; }
         public string LastName { get; set; }
@@ -20,11 +20,14 @@ namespace MISA.Common.Models
         public DateTime? CitizebIdentityDate { get; set; }
         public string Email { get; set; }
         public string PhoneNumber { get; set; }
-        public string WorkState { get; set; }
+        public int? WorkState { get; set; }
         public int? PositionId { get; set; }
         public int? DepartmentId { get; set; }
         public string SelfTaxCode { get; set; }
         public double? Salary { get; set; }
-        
+        public string Password { get; set; }
+        public Boolean AllowWorkCukCuk { get; set; }
+       
+
     }
 }

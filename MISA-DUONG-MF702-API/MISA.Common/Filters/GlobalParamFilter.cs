@@ -10,7 +10,7 @@ namespace MISA.Common.Filters
         {
             PageIndex = 1;
             PageSize = 10;
-            SortBy = "ID";
+            SortBy = "EmployeeId";
             OrderBy = "DESC";
         }
 
@@ -20,15 +20,8 @@ namespace MISA.Common.Filters
         public int PageSize { get; set; }
 
         public int? Status { get; set; }
-        public string StatusValue { get; set; }
-        public string ParentId { get; set; }
-
-        public string Keyword { get; set; }
-        public DateTime? StartDate { get; set; }
-        public DateTime? EndDate { get; set; }
-        public int? UserId { get; set; }
-        public string Type { get; set; }
-        public int GroupId { get; set; }
+        public int? WorkState { get; set; }
+        public int? Gender { get; set; }
 
         public string Language { get; set; }
     }
